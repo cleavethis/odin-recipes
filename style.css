@@ -1,0 +1,32 @@
+.name {
+    text-align: center;
+    font-family: Georgia, Verdana, sans-serif;
+    background-color: blue;
+
+}
+
+.rice {
+    color: green;
+}
+
+.mac {
+    color: yellow;
+    background-color: black;
+}
+
+.brisket {
+    color: brown;
+}
+
+.ingredients {
+    font-family: sans-serif;
+    color: red;
+}
+
+.home-link {
+    text-align: center;
+}
+
+.home-list {
+    text-align: center;
+}
